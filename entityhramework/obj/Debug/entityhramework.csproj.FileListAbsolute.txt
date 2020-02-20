@@ -1,0 +1,2 @@
+d:\Users\Admin\source\repos\entityhramework\entityhramework\obj\Debug\entityhramework.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\entityhramework\entityhramework\obj\Debug\entityhramework.csproj.CoreCompileInputs.cache
